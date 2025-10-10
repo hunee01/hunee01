@@ -1,7 +1,7 @@
 ## hi hello
 
-definitely? maybe
-i love physics
+- definitely? maybe
+- i love physics
 <!--
 **hunee01/hunee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
