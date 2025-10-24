@@ -6,5 +6,5 @@
 - my favourite number is 2
 
 ```console
-karel@foo:/home &
+karel@codehs:/home/karel &
 ```
