@@ -1,10 +1,14 @@
-## hi hello
+## $\frac{1}{6}(2\pi\hbar)\frac{\text{d}^2u^3}{\text{d}u^2}ne^2 = hunee$
 
 - 🇧🇷
-- i love physics
-- definitely maybe
-- my favourite number is 2
+- Aspiring physicist
+- Programming as a hobby
 
-```console
-karel@codehs:/home/karel &
-```
+---
+
+### Currently working on:
+- **Project V̅DCXLI:** Collaboraive story
+
+### Future projects:
+- **ParTex:** Particle physics simulator
+- **???:** Secret game!
