@@ -10,5 +10,6 @@
 - **Project V̅DCXLI:** Collaboraive story
 
 ### Future projects:
+- **EwB:** Calculus explained with bugs
 - **ParTex:** Particle physics simulator
 - **???:** Secret game!
